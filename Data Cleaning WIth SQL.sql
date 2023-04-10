@@ -96,7 +96,6 @@ From NashvilleHousing
 
 
 
-
 Select OwnerAddress
 From NashvilleHousing
 
